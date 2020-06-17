@@ -27,7 +27,7 @@ double piValue(int numIterations)
    int i,count=0; /* # of points in the 1st quadrant of unit circle */
    double z;
    double pi;
-   /* initialize random numbers */
+   /*  initialize random numbers */
    srand(SEED);
    count=0;
    for ( i=0; i<niter; i++) {
