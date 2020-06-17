@@ -52,7 +52,7 @@ int main()
     int n,m;
     printf("Enter n: ");
     scanf("%d",&n);
-    printf("Enter m: ");
+    printf("Enter m: ");    
     scanf("%d",&m);
 
     pthread_t factTid;
