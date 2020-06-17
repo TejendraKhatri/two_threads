@@ -48,7 +48,7 @@ void *approx_pi(void *arg)
 }
 
 int main()
-{
+{      
     int n,m;
     printf("Enter n: ");
     scanf("%d",&n);
